@@ -30,8 +30,8 @@
 ---
 
 ### 🌐 Conéctate conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/feed/)  
-- 🧠 [Portfolio / GitHub Pages](https://Tineo06.github.io/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-tineo-p%C3%A9rez-721a13333/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDjjtXpBmTUyI9DglDJA0uw%3D%3D)  
+- 🧠 [Portfolio / GitHub Pages](https://tineo06.github.io/html5up-dopetrope/index.html)  
 - 📧 **Email:** alejantipe@gmail.com  
 
 ---
