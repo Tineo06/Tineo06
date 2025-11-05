@@ -31,8 +31,8 @@
 
 ### 🌐 Conéctate conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-tineo-perez)  
-- 🧠 [Portfolio / GitHub Pages](https://Tineo06.github.io)  
-- 📧 **Email:** alejantipe@example.com  
+- 🧠 [Portfolio / GitHub Pages](https://Tineo06.github.io/portfolio)  
+- 📧 **Email:** alejantipe@gmail.com  
 
 ---
 
