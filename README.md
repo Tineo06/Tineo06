@@ -1,17 +1,38 @@
-## Hi there 👋
+## 👋 ¡Hola, soy Alejandro!
 
-<!--
-**Tineo06/Tineo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Desarrollo de Aplicaciones Web (DAW)**  
+💻 Apasionado por la programación, la tecnología y la creación de soluciones digitales.  
+🚀 En constante aprendizaje y mejora, con interés en el desarrollo **front-end, back-end** y la **experiencia de usuario (UX/UI)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1>Heading level 1</h1>
+### 🧩 Sobre mí
+- 🌱 Actualmente aprendiendo **Laravel**, **React** y **Astro**.  
+- 🔍 Me interesa el desarrollo de aplicaciones web completas, desde la idea hasta la implementación.  
+- 🤝 Abierto a colaborar en proyectos donde pueda aportar mis conocimientos y seguir aprendiendo.  
+- 💬 Me gusta trabajar en equipo, compartir ideas y resolver problemas de forma creativa.  
+
+---
+
+### 🛠️ Tecnologías y herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,mysql,git,github,vscode,figma,astro,tailwindcss" />
+</p>
+
+---
+
+### 📈 Estadísticas de GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tineo06&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tineo06&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🌐 Conéctate conmigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-tineo-perez)  
+- 🧠 [Portfolio / GitHub Pages](https://Tineo06.github.io)  
+- 📧 **Email:** alejantipe@example.com  
+
+---
+
