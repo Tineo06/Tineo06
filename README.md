@@ -51,7 +51,7 @@
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /></td>
   </tr>
   <tr>
-    <td align="center"><strong>☁️ DevOps e Infraestructura</strong></td>
+    <td align="center"><strong>DevOps e Infraestructura</strong></td>
     <td><img src="https://skillicons.dev/icons?i=aws,docker" /></td>
   </tr>
 </table>
