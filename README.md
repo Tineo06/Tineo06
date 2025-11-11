@@ -21,25 +21,38 @@
 
 ---
 
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías | Enlaces |
+| :--- | :--- | :--- | :--- |
+| **App Criptomonedas** | Dashboard para cotizar y consultar precios de criptomonedas en tiempo real, consumiendo la API de CoinGecko. | <img src="https://skillicons.dev/icons?i=html,tailwindcss,js" height="25"/> | [Repo]() |
+| **Clon de Wordle** | Implementación del popular juego 'Wordle', enfocado en la lógica de JavaScript y la gestión del estado de la aplicación. | <img src="https://skillicons.dev/icons?i=html,tailwindcss,js" height="25"/> | [Repo]() |
+| **Portfolio Personal** | Mi portfolio profesional donde muestro mis habilidades y proyectos. Construido con Astro y Tailwind para máxima velocidad. | <img src="https://skillicons.dev/icons?i=astro,tailwindcss,figma" height="25"/> | [Repo]() |
+
+---
+
 ### 🛠️ Mi Stack Tecnológico
-He organizado las tecnologías que manejo y aprendo por categorías para mayor claridad:
 
 <table>
   <tr>
     <td align="center"><strong>Front-End</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwindcss" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,astro,bootstrap,tailwindcss" /></td>
   </tr>
   <tr>
     <td align="center"><strong>Back-End</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,php,laravel" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java,python" /></td>
   </tr>
   <tr>
     <td align="center"><strong>Bases de Datos</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></td>
   </tr>
   <tr>
     <td align="center"><strong>Herramientas y Control</strong></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>☁️ DevOps e Infraestructura</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker" /></td>
   </tr>
 </table>
 
