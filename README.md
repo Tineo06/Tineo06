@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/alejandro-tineo-p%C3%A9rez-721a13333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alejandro_Tineo-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://tineo06.github.io/html5up-dopetrope/index.html" target="_blank">
+  <a href="(https://wordlewebapp.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Web-blueviolet?style=for-the-badge&logo=github" alt="Portfolio"/>
   </a>
   <a href="mailto:alejantipe@gmail.com">
