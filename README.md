@@ -26,8 +26,8 @@
 | Proyecto | Descripción | Tecnologías | Enlaces |
 | :--- | :--- | :--- | :--- |
 | **App Criptomonedas** | Dashboard para cotizar y consultar precios de criptomonedas en tiempo real, consumiendo la API de CoinGecko. | <img src="https://skillicons.dev/icons?i=html,tailwindcss,js" height="25"/> | [Repo](https://github.com/Tineo06/Crypto) |
-| **Clon de Wordle** | Implementación del popular juego 'Wordle', enfocado en la lógica de JavaScript y la gestión del estado de la aplicación. | <img src="https://skillicons.dev/icons?i=html,tailwindcss,js" height="25"/> | [Repo](https://github.com/Tineo06/Wordle) | [Pruebalo](https://wordlewebapp.netlify.app/) |
-| **Portfolio Personal** | Mi portfolio profesional donde muestro mis habilidades y proyectos. Construido con Astro y Tailwind para máxima velocidad. | <img src="https://skillicons.dev/icons?i=astro,tailwindcss,figma" height="25"/> | [Repo](https://github.com/Tineo06/Porfolio) | [Pruebalo](https://porfoliotineo.netlify.app/) |
+| **Clon de Wordle** | Implementación del popular juego 'Wordle', enfocado en la lógica de JavaScript y la gestión del estado de la aplicación. | <img src="https://skillicons.dev/icons?i=html,tailwindcss,js" height="25"/> | [Repo](https://github.com/Tineo06/Wordle) \| [Pruebalo](https://wordlewebapp.netlify.app/) |
+| **Portfolio Personal** | Mi portfolio profesional donde muestro mis habilidades y proyectos. Construido con Astro y Tailwind para máxima velocidad. | <img src="https://skillicons.dev/icons?i=astro,tailwindcss,figma" height="25"/> | [Repo](https://github.com/Tineo06/Porfolio) \| [Pruebalo](https://porfoliotineo.netlify.app/) |
 
 ---
 
