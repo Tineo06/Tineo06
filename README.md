@@ -58,13 +58,6 @@
 
 ---
 
-### 📈 Mis Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tineo06&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ### 🌐 Conéctate Conmigo
 <p align="left">
   <a href="https://www.linkedin.com/in/alejandro-tineo-p%C3%A9rez-721a13333/" target="_blank">
